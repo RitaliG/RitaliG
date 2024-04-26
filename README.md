@@ -1,7 +1,6 @@
 ### Hi there! <img src="https://github.com/RitaliG/RitaliG/assets/59788464/7f111fdd-b554-452c-9efe-6e11bbbee318" alt="wave" width="30"/> 
 
 ### I am Ritali Ghosh. 😄 
-
 (Pronouns: she/her)
 
 :pushpin: my webpage: [www.ritalighosh.com](https://www.ritalighosh.com)
