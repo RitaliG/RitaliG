@@ -9,3 +9,5 @@
 
 - ⏩ Checkout my recently updated works on <a href="https://orcid.org/0000-0001-8643-7104">my ORCID record <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" /></a>
 - 📫 You can reach out to me over email: ritalighosh@iisc.ac.in
+
+<img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="400">
